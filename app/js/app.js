@@ -4,7 +4,10 @@
 // Declare app level module which depends on filters, and services
 angular.module('myApp', [
   'ngRoute',
-  'myApp.home'
+  'myApp.home',
+  'myApp.register',
+  'myApp.welcome',
+  'myApp.addPost'
 ]).
 config(['$routeProvider', function($routeProvider) {
 
