@@ -2,42 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tammingas Blog</title>
-    <link>https://www.tammingas.nl</link>
-    <atom:link href="https://www.tammingas.nl/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:8820</link>
+    <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
     <description>A nice short subtitle.</description>
     <language>en-gb</language>
-    <pubDate>Sun, 17 Jan 2021 14:36:59 +0100</pubDate>
-    <lastBuildDate>Sun, 17 Jan 2021 14:36:59 +0100</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2021 19:34:55 +0100</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2021 19:34:55 +0100</lastBuildDate>
 
     <item>
-      <title>First of 2021</title>
-      <link>https://www.tammingas.nl/blog/2021/The-first-of-2021.html</link>
+      <title>Project: ePaper speedometer (2)</title>
+      <link>http://localhost:8820/blog/2021/2-Project-speedometer.html</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2021/2-Project-speedometer.html</guid>
+      <description><p>After identifying the main parts for my daylight readable speedometer I came across the
+<a href="http://arduiniana.org/libraries/tinygpsplus">TinyGPS++</a> website which is an Arduino library for communicating with
+GPS boards.</p></description>	  
+    </item><item>
+      <title>Project: ePaper speedometer (1)</title>
+      <link>http://localhost:8820/blog/2021/1-Project-speedometer.html</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0100</pubDate>
-      <guid isPermaLink="false">blog/2021/The-first-of-2021.html</guid>
-      <description><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p></description>	  
+      <guid isPermaLink="false">blog/2021/1-Project-speedometer.html</guid>
+      <description><p>When I was sailing my <a href="../../trimaran.html">trimaran</a> the other day, it occurred to me that it would be nice to have
+a better speed indicator.</p></description>	  
     </item><item>
       <title>Fourth Post</title>
-      <link>https://www.tammingas.nl/blog/2013/fourth-post.html</link>
-      <pubDate>Thu, 17 Oct 2013 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
+      <link>http://localhost:8820/blog/2020/fourth-post.html</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2020/fourth-post.html</guid>
       <description><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p></description>	  
     </item><item>
       <title>Third Post</title>
-      <link>https://www.tammingas.nl/blog/2013/third-post.html</link>
-      <pubDate>Thu, 26 Sep 2013 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">blog/2013/third-post.html</guid>
+      <link>http://localhost:8820/blog/2020/third-post.html</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2020/third-post.html</guid>
       <description><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p></description>	  
     </item><item>
       <title>Second Post</title>
-      <link>https://www.tammingas.nl/blog/2013/second-post.html</link>
-      <pubDate>Sun, 25 Aug 2013 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">blog/2013/second-post.html</guid>
+      <link>http://localhost:8820/blog/2020/second-post.html</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2020/second-post.html</guid>
       <description><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p></description>	  
     </item><item>
       <title>First Post</title>
-      <link>https://www.tammingas.nl/blog/2013/first-post.html</link>
-      <pubDate>Wed, 24 Jul 2013 00:00:00 +0200</pubDate>
-      <guid isPermaLink="false">blog/2013/first-post.html</guid>
+      <link>http://localhost:8820/blog/2020/first-post.html</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2020/first-post.html</guid>
       <description><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p></description>	  
     </item>
 
