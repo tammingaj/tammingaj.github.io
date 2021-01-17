@@ -1,12 +1,13 @@
-= Fourth Post
-Jonathan Bullock
-2013-10-17
-:jbake-type: post
-:jbake-status: published
-:jbake-tags: blog, asciidoc
-:jbake-shareimage: img/clean-blog-share-card.png
-:jbake-coverimage: img/grand-canyon.jpg
-:idprefix:
+title=Third Post
+date=2020-09-26
+type=post
+tags=blog, asciidoc
+status=published
+coverimage=img/archive-cover.jpg
+~~~~~~
+= Third Post
+Jan Peter Tamminga
+2020-10-17
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.
 

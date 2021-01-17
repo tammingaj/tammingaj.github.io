@@ -1,18 +1,14 @@
-title=Third Post
-date=2013-09-26
+title=Second Post
+date=2020-08-25
 type=post
-tags=blog, asciidoc
+tags=blog
 status=published
-coverimage=img/archive-cover.jpg
 ~~~~~~
-= Third Post
-Jonathan Bullock
-2013-10-17
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.
 
-* http://example.org
-* http://example.org[Example.org]
+* [http://example.org](http://example.org)
+* [Example.org](http://example.org)
 
 Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu, 
 mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo 
