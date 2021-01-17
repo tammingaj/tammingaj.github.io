@@ -3,6 +3,7 @@ date=2013-09-26
 type=post
 tags=blog, asciidoc
 status=published
+coverimage=img/archive-cover.jpg
 ~~~~~~
 = Third Post
 Jonathan Bullock

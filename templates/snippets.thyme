@@ -50,6 +50,15 @@
         <![endif]-->
 
         <link th:with="rootpath=(${content.rootpath} ?: '' )" rel="shortcut icon" th:href="${rootpath}+'favicon.png'"/>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TMZWDL48DZ"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-TMZWDL48DZ');
+        </script>
     </head>
 
     <body>
@@ -176,7 +185,7 @@
                 </div>
             </div>
         </article>
-        <script th:fragment="googleAnalytics" th:inline="javascript" th:if="${config.google_trackingID}">
+        <script th:fragment="googleAnalytics" th:inline="javascript" th:if="${config.google_trackingIDa}">
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
                 i[r] = i[r] || function () {
@@ -193,6 +202,9 @@
             ga('send', 'pageview');
 
         </script>
+
+
+
         <footer th:fragment="footer">
             <div class="container">
                 <div class="row">
