@@ -1,4 +1,4 @@
-title=Project: ePaper speedometer (1)
+title=ePaper speedometer (1)
 date=2021-01-17
 type=post
 tags=speedometer,gps,epaper

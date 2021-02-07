@@ -1,0 +1,30 @@
+title=Custom keyboard (1)
+date=2021-002-07
+type=post
+tags=keyboard,qmk,zmk,crkbd,corne
+status=published
+~~~~~~
+
+As a coder my keyboard is to me what [.line-through]#a cleaver is to a butcher# a pen is to a poet. Without it I would have
+to resort to more physical labour to provide me an income, something that I want to prevent at all cost, slacker that I am.
+
+So during my working life I have had some experiments with keyboards, especially during the periods when I had some more
+problems with RSI like phenomena. Back in the nineties I bought me a link:https://twiddler.tekgear.com/index.html[Twiddler]
+(version 1, with PS/2 cable) but using it was too difficult. Later I used various ergonomic keyboards, all of them with
+the traditional layout consisting of a main part and a num pad, with cursor keys in between. Some years ago I started using the
+mouse with my left hand, which to me is more logical because on that side you don't have the numpad in the way.
+
+Lately I came across the link:https://waytools.com/[TextBlade] which is a small, portable bluetooth keyboard that is highly
+configurable but, alas, unobtainable. This started me thinking about creating my own keyboard, based on a small microprocessor
+like the arduino. So I started googling around, and surprise surprise there is a whole community of keyboard nerds that do
+exactly that. Found huge flame wars about clicky versus non-clicky keys, the optimal spring force for the keys and how to
+best create your own keycaps.
+
+I also found many keyboard designs. Ranging from part lists with minimal instructions, to kits you have to solder together,
+to complete keyboards ready to plug in. I chose option two. I am prepared to do some soldering but since I have virtually
+no knowledge of electronics I need some instruction.
+
+* split design
+* configurable keymaps
+* preferably wireless/bluetooth
+* as small as possible
