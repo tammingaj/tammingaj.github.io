@@ -1,0 +1,14 @@
+
+#main {
+  background-image: url('../assets/vlot1-transparant-wit.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  animation: fadeIn 5s ;
+  animation-delay: 1000ms;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0.1;}
+  to {opacity: 1;}
+}
